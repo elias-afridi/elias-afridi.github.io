@@ -1,0 +1,12 @@
+# Ignore static files
+/static/* linguist-vendored
+
+# Ignore build files
+/build/* linguist-vendored
+
+# Ignore node_modules directory
+/node_modules/* linguist-vendored
+
+# Ignore minified files
+*.min.js linguist-generated
+*.min.css linguist-generated
